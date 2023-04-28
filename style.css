@@ -1,0 +1,54 @@
+body {
+    background-color: #222222 !important;
+    background-image: url(img/fondo.jpg);
+    background-size: 100%;
+}
+
+.justify-content-center {
+    background-color: #1b1a1a;
+    opacity: 50%
+}
+
+.nav-link {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    
+}
+
+.nav-item {
+    padding: 8px;
+}
+
+.cuerpo {
+    text-align: center;
+    color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 10px;
+}
+
+.cuerpo h1 {
+    font-size: 2rem;
+}
+
+.card {
+    max-width: 18rem;
+    width: auto; 
+    margin: auto auto
+}
+
+.img-fluid {
+    border: 4px #666666 solid;
+    border-radius: 6px;
+}
+
+#card {
+    margin-top: 8rem;
+}
+
+a .bi {
+    padding: 6px;
+}
+
+.card-group {
+    padding: 4rem;
+}
