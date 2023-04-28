@@ -52,3 +52,12 @@ a .bi {
 .card-group {
     padding: 4rem;
 }
+
+.banner {
+    display: block;
+    width: 27%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 30px;
+    margin-top: 30px;
+}
