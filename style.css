@@ -47,6 +47,7 @@ body {
 
 a .bi {
     padding: 6px;
+    text-decoration: none;
 }
 
 .card-group {
